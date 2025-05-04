@@ -8,7 +8,7 @@ The first example (Fig 1) ![Figure 1](readmeImages/Fig1.jpg) demonstrates a Bauh
 
 
 
-Another key technique is asymmetrical balance (Fig 2)![Figure 2](readmeImages/Fig2.jpg) , where dynamic compositions maintain order while exuding energy. This aligns perfectly with my assignment’s need for clean, purposeful design. While replicating Bauhaus precision may be challenging, its foundational principles will guide my approach to form and function.
+Another key technique is asymmetrical balance (Fig 2)![Figure 2](readmeImages/Fig2.jpg) , where dynamic compositions maintain order while exuding energy. This aligns perfectly with my assignment’s need for clean, purposeful design.
 
 
 
