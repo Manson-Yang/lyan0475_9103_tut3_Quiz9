@@ -1,5 +1,5 @@
-# lyan0475_9103_tut3_Quiz9
-# 🎨 Quiz 9: Imaging & Coding Technique Exploration
+# lyan0475_9103_tut3_Quiz8
+# 🎨 Quiz 8: Imaging & Coding Technique Exploration
 
 ## Part 1: Imaging Technique Inspiration – *Bauhaus Style*
 
